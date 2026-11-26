@@ -1,0 +1,6 @@
+{
+  "name": "MeowLibrary",
+  "description": "Perpustakaan digital berbasis web dengan fitur peminjaman buku, manajemen koleksi, pelaporan otomatis, serta dashboard admin dan member real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
